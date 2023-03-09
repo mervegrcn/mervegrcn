@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **mervegrcn1@gmail.com**
 
-- ⚡ Fun fact **I think I am hardworker person**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RPXfdvTg--JshYQnB1yq_BnadcaOJJ3l/view?usp=sharing](https://drive.google.com/file/d/1RPXfdvTg--JshYQnB1yq_BnadcaOJJ3l/view?usp=sharing)
+
+- ⚡ Fun fact **I am a hard-worker person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
