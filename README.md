@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Merve Gurcan</h1>
 <h3 align="center">A passionate data scientist from Turkey</h3>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Business Intelligence Analyst**
 
 - 🌱 I’m currently learning **DataScince and Machine Learning in Miuul DS & ML Bootcamp**
 
